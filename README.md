@@ -1,6 +1,6 @@
-# Larticles API
+# Larticles API and VueJS - Crud
 
-> Laravel 5.5 API that uses the API resources. This is an API for an article CRUD app
+> Laravel 5.5 API that uses the API resources. Performing CRUD operations on the articles fetched via API using VueJS
 
 ## Quick Start
 
